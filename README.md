@@ -3,6 +3,14 @@
 Tài liệu này được biên soạn nhằm giúp người mới bắt đầu có thể **tiếp cận và sử dụng Arduino một cách nhanh chóng**, từ những khái niệm cơ bản nhất đến việc làm việc với cảm biến, module và các ứng dụng thực tế.
 
 ---
+## 🔍 Từ khóa tìm kiếm
+
+- tài liệu học arduino
+- tài liệu lập trình arduino
+- tài liệu vi điều khiển
+- arduino cho người mới bắt đầu
+- học arduino cơ bản
+- lập trình arduino tiếng việt
 
 ## 🎯 Mục tiêu của tài liệu
 
